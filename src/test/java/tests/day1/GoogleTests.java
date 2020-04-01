@@ -1,5 +1,5 @@
 package tests.day1;
 
 public class GoogleTests {
-        String color="Blue, red, blue";
+       //this is a comment
         }
